@@ -36,5 +36,6 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
 
     //convert for retrofit: GSON
-    
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
 }
